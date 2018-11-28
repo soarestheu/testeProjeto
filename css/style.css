@@ -1,0 +1,14 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	color: white;
+	height: 100%;
+	width: 100%;
+}
+
+#Site {
+	background-color: black;
+	height:100%;	
+	width:80%;
+}
